@@ -1,1 +1,83 @@
-1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Youtube</title>
+    <link rel="stylesheet" href="css/youtube-clone.css">
+  
+<body>
+  <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Youtube</title>
+
+        <link rel="stylesheet" href="/02_CSS/css/youtube-clone.css">
+
+        <!-- fontaswesom 아이콘 사용할 수 있는 스크립트 연결-->
+        <script src="https://kit.fontawesome.com/bd32f90aa4.js" crossorigin="anonymous"></script>
+
+    </head>
+    <body>
+
+ 
+      
+<header>
+  <div class="logo">
+    <a href="https://www.youtube.com/" target="_blank">
+        <img src="images/1234.png" alt="YouTube Logo">
+    </a>
+</div>
+</div>
+  <div class="search-bar">
+      <input type="text" placeholder="검색">
+      <button><i class="fas fa-search"></i></button>
+      <button><i class="fas fa-keyboard"></i></button>
+      <div class="mic-button">
+        <button> <i class="fa-solid fa-microphone"></i></i></button>
+    </div>
+  </div>
+  <div class="header-actions">
+      <button><i class="fas fa-video"></i> </button>
+      <button><i class="fas fa-bell"></i></button>
+    
+  </div>
+</header>
+<main>
+  <div class="iframe-box">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/EzB7hB8EaVU?si=6KE9_o6zE7tIoaZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <h1>[페이스캠4K] 아이브 안유진 'ELEVEN' (IVE YUJIN FaceCam)│@SBS Inkigayo_2021.12.12.</h1>
+  <p>조회수 2,432,694회  2021. 12. 15.  #ELEVEN #인기가요 #아이브
+    [페이스캠4K] 아이브 안유진 'ELEVEN' (IVE YUJIN FaceCam)│@SBS Inkigayo_2021.12.12.</p>
+  <div class="video-actions">
+      <button><i class="fas fa-thumbs-up"></i> 10.1만</button>
+      <button><i class="fas fa-thumbs-down"></i> 6백</button>
+      <button><i class="fas fa-share"></i> 공유</button>
+      <button><i class="fas fa-save"></i> 저장</button>
+      <button><i class="fas fa-ellipsis-h"></i></button>
+
+  </div>
+</main>
+<aside>
+  <section>
+  <h1>관련 동영상</h1>
+    <div>
+        <section class="side-video-box">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/1q5xJRkNUqw?si=QNr7Yzc2LRdROXsh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <div class="side-video-box-content">
+                <h2>[입덕직캠] 아이브 안유진 직캠 4K 'LOVE DIVE' (IVE YUJIN FanCam) | @MCOUNTDOWN_2022.4.7</h2>
+               
+                <p>조회수 100만회 · 4시간 전</p>
+            </div>
+            <section class="side-video-box">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/9hhYHk7GVpI?si=7JVUJ0SXc3Tla4Ko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                      <h4>[입덕직캠] 아이브 안유진 직캠 4K 'Kitsch' (IVE YUJIN FanCam) | @MCOUNTDOWN_2023.4.13</h4>
+            
+              
+                  </div>
+        </section>
+      
+      </body>
